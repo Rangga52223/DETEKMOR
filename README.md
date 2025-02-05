@@ -13,4 +13,4 @@ $ Meningkatkan akurasi untuk realtime klasifikasi <br>
 
 Link Model : [Model](https://drive.google.com/drive/folders/1N4Ln9ewI9xgrZvtGygFTYZWdm3FZzNwo?hl=id) <br>
 
-Link Dataset : [Dataset](https://www.kaggle.com/code/ayaehabramadan/mri-brain-tumor-classification)
+Link Dataset : [Dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/data?select=Training)
